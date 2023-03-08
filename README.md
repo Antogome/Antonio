@@ -20,7 +20,6 @@ El portfolio está construido con las siguientes tecnologías:
 - HTML5
 - CSS3
 - JavaScript
-- Bootstrap
 
 ## Contribución
 
