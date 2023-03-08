@@ -1,7 +1,5 @@
 # Antonio Vera Villaverde - Portfolio
 
-![Antonio Vera Villaverde Portfolio](./img/portfolio-preview.png)
-
 ## Descripción
 
 Este es mi portfolio personal, donde podrás encontrar información sobre mí, mis habilidades y proyectos.
